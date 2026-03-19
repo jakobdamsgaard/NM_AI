@@ -1,0 +1,20 @@
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+
+# Training artifacts
+runs/
+exports/
+
+# Model weights
+*.pt
+*.pth
+
+# Notebook / misc
+.ipynb_checkpoints/
